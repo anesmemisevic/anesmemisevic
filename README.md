@@ -1,6 +1,7 @@
 
 <h3 align="center">Hello 🙋🏼‍♂️ , I'm Anes Memišević</h3>
 <h3 align="center">Computer Engineering graduate from TED University</h3>
+<h3 align="center">Currently working as a Cloud Software Engineer at BinaryCore GmbH</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
