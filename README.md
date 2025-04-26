@@ -8,7 +8,7 @@
 
 
 * 🔭 Interested in SWE, Cloud & IoT
-* ☁️ Currently working as a Cloud Software Engineer and Tech Consultant at BinaryCore, a Kearney company
+* ☁️ Software Engineer, Technology Consultant | Kearney Activate
 
 ![most-used-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anesmemisevic&layout=compact&hide_border=true)
 ![contribs](https://github-readme-streak-stats.herokuapp.com/?user=anesmemisevic&layout=compact&hide_border=true)
